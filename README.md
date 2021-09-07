@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://i.pinimg.com/originals/07/49/5b/07495befb71e71f800711eee3d4cebc8.gif">
 </p>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hodlucjk&color=gray"/>
