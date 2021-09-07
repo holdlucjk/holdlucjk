@@ -3,14 +3,11 @@
 </p>
 <p align="center">
     holdlucjk
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
-</p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/295409557419720704.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/295409557419720704.png"/>
 </p>
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    <a href="http://discord.gg/9BjskC7uj4">Discord Server</a>
 
