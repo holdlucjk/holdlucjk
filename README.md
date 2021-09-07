@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif">
 </p>
 <p align="center">
-Atualmente aprendendo JavaScript
+holdlucjk
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hodlucjk&color=gray"/>
  </p>
