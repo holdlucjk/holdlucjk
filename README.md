@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif">
 </p>
 <p align="center">
-holdlucjk
+html | css | javascript | node | php | lavarel
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hodlucjk&color=gray"/>
  </p>
