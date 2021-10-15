@@ -10,5 +10,5 @@ holdlucjk
   <img src="https://discord.c99.nl/widget/theme-4/295409557419720704.png"/>
 </p>
 <p align="center">
-    <a href="http://discord.gg/9BjskC7uj4">Servidor no Discord</a>
+    <a href="instagram.com/_lucca111">meu instagram</a>
 
