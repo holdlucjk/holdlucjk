@@ -3,12 +3,9 @@
 </p>
 <p align="center">
 html | css | javascript | node | php | lavarel
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hodlucjk&color=gray"/>
- </p>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/295409557419720704.png"/>
 </p>
 <p align="center">
-    <a href="instagram.com/_lucca111">meu instagram</a>
+    <a href="instagram.com/_lucca111">meu instagram</a> | <img src="https://komarev.com/ghpvc/?username=hodlucjk&color=gray"/>
 
