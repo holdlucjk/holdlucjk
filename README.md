@@ -7,6 +7,6 @@ html | css | javascript | node | php | lavarel
   <img src="https://discord.c99.nl/widget/theme-4/295409557419720704.png"/>
 </p>
 <p align="center">
-  <strong> <a href="instagram.com/_lucca111">instagram</a> </strong>
+  <strong> <a href="https://instagram.com/_lucca111">instagram</a> </strong>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=hodlucjk&color=gray"/>
