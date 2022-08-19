@@ -2,7 +2,7 @@
 <img src="https://uploads.scratch.mit.edu/users/avatars/17702059.png">
 </p>
 <p align="center">
-html & css | javascript | nodejs | reactjs | database
+html & css | javascript | reactjs | database
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/295409557419720704.png"/>
 </p>
